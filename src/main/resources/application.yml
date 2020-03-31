@@ -1,0 +1,12 @@
+tournament-rules:
+  number-of-players: 6
+  number-of-matches-per-player: 3
+  allowed-results:
+    - "2:0"
+    - "0:2"
+    - "1:2"
+    - "2:1"
+  winning-points: 3
+  loss-points: 1
+
+
